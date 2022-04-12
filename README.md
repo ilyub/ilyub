@@ -1,4 +1,4 @@
-# Repositories
+## Docs
 
 - [Typescript facades](https://ilyub.github.io/typescript-facades/)
 - [Typescript framework](https://ilyub.github.io/typescript-framework/)
